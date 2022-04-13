@@ -1,0 +1,5 @@
+﻿  d3.cpp
+D:\repos\s_f_day3\s_f_day3\d3.cpp(119,16): error C2011: “Solution”:“class”类型重定义
+D:\repos\s_f_day3\s_f_day3\d3.cpp(29): message : 参见“Solution”的声明
+D:\repos\s_f_day3\s_f_day3\d3.cpp(138,17): error C2011: “ListNode”:“struct”类型重定义
+D:\repos\s_f_day3\s_f_day3\d3.cpp(21): message : 参见“ListNode”的声明
